@@ -1,6 +1,9 @@
 # Customer-Behaviour-Analysis
 Analysing purchasing patterns across 3,900 e-commerce customers using Python and SQL, and developing an interactive Power BI dashboard to track key performance indicators and identify retail growth opportunities.
+## Power BI Dashboard
+Here is a preview of the dashboard built for this analysis
 
+![Power BI Dashboard Overview](BI-Dashboard.png)
 
 ## Objective
 The primary goal of this project is to analyse customer purchase behaviour across demographics, product categories, and subscription statuses to identify key growth drivers. 
